@@ -33,3 +33,4 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
  
 # Document that the container listens on port 8080
 EXPOSE 8081
+ 
